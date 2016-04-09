@@ -1,0 +1,36 @@
+
+#landingtitle {
+    font-family: impact;
+    font-size: 450%;
+    text-align:center;
+}
+
+
+#landinghead {
+    margin-bottom: 2.5em;
+}
+
+body {
+    background: #fed7db;
+}
+
+h3 {
+    font-family: impact, sans-serif;
+}
+
+p {
+    font-family: 'Crimson', serif;
+}
+
+img {
+    max-width: 350px;
+    width: 100%;
+    float: right;
+    height: auto;
+    padding: 10px;
+}
+
+.row {
+    margin-bottom: 1.5em;
+    
+}
